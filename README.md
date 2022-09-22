@@ -25,3 +25,9 @@ nano cypress-e2e_setup.sh (then paste the content, or download this script direc
 source ./cypress-e2e_setup.sh
 ```
 - This script requires user to input the IP address of the EC2 running the url-shortener application
+
+## Files and Folders
+- [kura_test_repo](https://github.com/cadenhong/kl_wk10_e2e_flask_urlshortener/tree/main/kura_test_repo): Folder containing the Cypress test scripts
+- [url-shortener](https://github.com/cadenhong/kl_wk10_e2e_flask_urlshortener/tree/main/url-shortener): Folder containing the url-shortener application
+- [cypress-e2e_setup.sh](https://github.com/cadenhong/kl_wk10_e2e_flask_urlshortener/blob/main/cypress-e2e_setup.sh): Script to setup and run the E2E Cypress test on the url-shortener Flask application
+- [url-shortener_setup.sh](https://github.com/cadenhong/kl_wk10_e2e_flask_urlshortener/blob/main/url-shortener_setup.sh): Script to setup and run the url-shortener Flask application
