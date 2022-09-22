@@ -13,8 +13,8 @@
 #
 # Instructions:
 # - Spin up an EC2 with Ubuntu as the Amazon Machine Image (AMI)
-# - SSH into the EC2, copy this script over, then run this script
-#   using the following command: source ./steps.sh
+# - SSH into the EC2, copy this script over, then run:
+#       source ./steps.sh
 # - As of September 2022, the latest Python version is 3.10.6 -
 #   user may need to change version on line 31 if it is outdated at
 #   the time of script execution
